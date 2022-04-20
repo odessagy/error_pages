@@ -1,0 +1,6 @@
+# compiled output
+/dist
+/error_page.ai
+
+# dependencies
+/node_modules
